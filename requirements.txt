@@ -1,0 +1,7 @@
+Flask
+Flask-RESTful
+Flask-SQLAlchemy
+requests
+flask-marshmallow
+flask-migrate
+flask-jwt-extended
